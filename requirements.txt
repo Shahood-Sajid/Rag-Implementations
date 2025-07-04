@@ -19,3 +19,4 @@ accelerate
 google-genai
 PyMuPDF
 python-dotenv
+sentence-transformers
